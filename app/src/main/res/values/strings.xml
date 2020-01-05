@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">ServShare</string>
+
+    <!--            HINTS           -->
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_fullname">Enter FullName</string>
+    <string name="hint_number">Enter Phone Number</string>
+    <string name="hint_service_name">Enter Service Name</string>
+    <string name="hint_service_price">Enter Price</string>
+    <string name="hint_service_date">Enter Date</string>
+    <string name="hint_service_description">Enter Description</string>
+    <string name="hint_service_location">Enter location</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="post_service">Post Service</string>
+
+    <!--            Login Fragments         -->
+    <string name="no_account">Don\'t have an account!</string>
+    <string name="txt_signup">Signup</string>
+
+    <!--            Menu Items          -->
+    <string name="add_service">Post a service</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_sign_out">Sign Out</string>
+
+    <!--            Profile Fragment            -->
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="number">Mobile Number:</string>
+    <string name="my_services">My Services:</string>
+    <string name="requested_services">Services Requested:</string>
+
+    <string name="sample_name">Anas Qaiser</string>
+    <string name="sample_email">s.anasqaiser@gmail.com</string>
+    <string name="sample_number">+923452551784</string>
+    <string name="sample_my_services">1</string>
+    <string name="sample_requested_services">2</string>
+
+    <string name="sample_service_name">House Cleaning</string>
+    <string name="sample_service_price">%1$.2f per hour</string>
+    <string name="sample_service_date">01/04/2020</string>
+    <string name="sample_service_description">This a description for a house cleaning service I provide.</string>
+    <string name="sample_service_location">Location for the service</string>
+
+    <string name="service_name">Name: </string>
+    <string name="service_price">Price: </string>
+    <string name="service_date">Date: </string>
+    <string name="service_location">Location: </string>
+    <string name="service_description">Description: </string>
+</resources>

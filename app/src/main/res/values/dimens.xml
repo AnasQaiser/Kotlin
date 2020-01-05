@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tv_message">15sp</dimen>
+    <dimen name="tv_profile">17sp</dimen>
+    <dimen name="tv_heading">23sp</dimen>
+    <dimen name="tv_sub_heading">19sp</dimen>
+
+    <dimen name="edittext">17sp</dimen>
+
+    <dimen name="btn_size">17sp</dimen>
+
+</resources>
